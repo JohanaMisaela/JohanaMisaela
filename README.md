@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me: Hello</h1>
 <h3 align="center">Welcome!!!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johanamisaela&label=Profile%20views&color=0e75b6&style=flat" alt="johanamisaela" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
