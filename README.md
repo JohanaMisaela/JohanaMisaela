@@ -3,14 +3,14 @@ Helllo Welcome!!!!
 
 
 ## 🌐 Connect me :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)(https://facebook.com/JohanaMisaela)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)(https://facebook.com/JohanaMisaela)
 
 # 📊 GitHub Stats:
--------------------------------------------------------------------------------------------------------------------|-----------]
-[![](https://github-readme-stats.vercel.app/api?username=JohanaMisaela&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JohanaMisaela&theme=city_light&hide_border=true)<br/>]  |[
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanaMisaela&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)         ]
+-------------------------------------------------------------------------------------------------------------------|----------- 
+[![](https://github-readme-stats.vercel.app/api?username=JohanaMisaela&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JohanaMisaela&theme=city_light&hide_border=true)         |
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanaMisaela&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)         
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 [![](https://visitcount.itsvg.in/api?id=JohanaMisaela&icon=7&color=10)](https://visitcount.itsvg.in)
