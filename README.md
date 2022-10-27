@@ -19,7 +19,7 @@
 </table>
 <table>
   <th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanamisaela&show_icons=true&locale=en&layout=compact" alt="johanamisaela" /></p></th>
-  <th>![](https://visitcount.itsvg.in/api?id=JohanaMisaela&icon=7&color=10)](https://visitcount.itsvg.in)
+  <th><p>![](https://visitcount.itsvg.in/api?id=JohanaMisaela&icon=7&color=10)](https://visitcount.itsvg.in)</p>
 </th>
 </table>
 
