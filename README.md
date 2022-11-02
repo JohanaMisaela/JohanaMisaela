@@ -17,13 +17,6 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanamisaela&show_icons=true&locale=en&layout=compact" alt="johanamisaela" />
 </div>
-
-
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div> -->
 <br/>
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=JohanaMisaela&icon=7&color=10" "(https://visitcount.itsvg.in)">
