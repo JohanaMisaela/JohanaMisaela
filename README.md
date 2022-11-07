@@ -2,7 +2,7 @@
 <h3 align="center">Welcome!!!!</h3>
 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="SALUT ">
+<img src="hi.gif" width="100%" height="50%">
 
 <p align="center"> 
   Visitor count<br>
