@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/JohanaMisaela/count.svg" />
 </p>
 <div align="center">
-  <img height="30%" width="20%" src="i.gif"  />
+  
 </div>
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanamisaela&" alt="johanamisaela" /></p>
@@ -18,9 +18,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanamisaela&show_icons=true&locale=en&layout=compact" alt="johanamisaela" />
 </div>
 <br/>
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=JohanaMisaela&icon=7&color=10" "(https://visitcount.itsvg.in)">
-</div>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
