@@ -9,8 +9,9 @@
   <img src="https://profile-counter.glitch.me/JohanaMisaela/count.svg" />
 </p>
 <div align="center">
-  
+   <img src="hack.jpg" />
 </div>
+</br>
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanamisaela&" alt="johanamisaela" /></p>
 </div>
