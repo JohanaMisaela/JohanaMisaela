@@ -1,15 +1,10 @@
-<h1 align="center">💫 About Me: Hello</h1>
-<h3 align="center">Welcome!!!!</h3>
-
-
-<img src="helo.gif" width="100%" height="50%">
-
+<img src="hack.jpg" />
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JohanaMisaela/count.svg" />
 </p>
 <div align="center">
-   <img src="hack.jpg" />
+<!-- <img src="helo.gif" width="100%" height="50%"> -->
 </div>
 </br>
 <div align="center">
