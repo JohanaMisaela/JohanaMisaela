@@ -12,8 +12,8 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanamisaela&" alt="johanamisaela" /></p>
 </div>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanamisaela&show_icons=true&locale=en&layout=compact" alt="johanamisaela" />
-</div>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanamisaela&show_icons=true&locale=en&layout=compact" alt="johanamisaela" />
+</div> -->
 <br/>
 
 
