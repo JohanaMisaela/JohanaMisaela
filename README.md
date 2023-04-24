@@ -1,4 +1,4 @@
-<h1 align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=5001&pause=1000&color=8abeb7&width=435&lines=Welcome+<3" alt="Typing SVG" /></a></h1> 
+<!-- <h1 align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=5001&pause=1000&color=8abeb7&width=435&lines=Welcome+<3" alt="Typing SVG" /></a></h1>  -->
 <img src="hack.jpg" />
 <p align="center"> 
   Visitor count<br>
@@ -11,7 +11,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.fr/JohannaMisaela/) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![C++ align="center"](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
