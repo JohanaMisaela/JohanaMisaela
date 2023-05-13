@@ -1,7 +1,7 @@
 <!-- <h1 align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=5001&pause=1000&color=8abeb7&width=435&lines=Welcome+<3" alt="Typing SVG" /></a></h1>  -->
 <img src="hack.jpg" />
 <p align="center"> 
-  Visitor count<br>
+  Visitor count :
   <img src="https://profile-counter.glitch.me/JohanaMisaela/count.svg" />
 </p>
 
