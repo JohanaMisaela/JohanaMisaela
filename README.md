@@ -26,6 +26,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%2307405e.svg?style=flat&logo=firebase&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%2307405e.svg?style=flat&logo=WordPress&logoColor=black) 
+
 
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) 
