@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%2307405e.svg?style=flat&logo=firebase&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%2307405e.svg?style=flat&logo=WordPress&logoColor=black) 
+![WordPress](https://img.shields.io/badge/WordPress-%23FF2D20.svg?style=flat&logo=WordPress&logoColor=black) 
 
 
 
