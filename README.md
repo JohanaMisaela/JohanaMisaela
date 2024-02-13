@@ -1,4 +1,4 @@
-<p align="center">I'm a geek, of course I have a life 🌟<br>I'm a geek, of course I take care of myself 💪<br>I'm a geek, of course my nails are long 💅<br>I'm a geek, of course I'm very sociable 🤝<br>I'm a geek, of course I'm not always in front of my screen 🌈<br>i'm a geek, of course I LOVE MYSELF <3</p>
+<p align="center">I'm a geek, of course I have a life 🌟<br>I'm a geek, of course I take care of myself 💪<br>I'm a geek, of course i have pretty nails 💅<br>I'm a geek, of course I'm very sociable 🤝<br>I'm a geek, of course I'm not always in front of my screen 🌈<br>i'm a geek, of course I LOVE MYSELF <3</p>
 
 ###
 
