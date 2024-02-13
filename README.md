@@ -1,7 +1,8 @@
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <p align="center">I'm a geek, of course I have a life 🌟<br>I'm a geek, of course I take care of myself 💪<br>I'm a geek, of course i have pretty nails 💅<br>I'm a geek, of course I'm very sociable 🤝<br>I'm a geek, of course I'm not always in front of my screen 🌈<br>i'm a geek, of course I LOVE MYSELF <3</p>
 
-###
-
+#
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohanaMisaela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohanaMisaela&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -9,7 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
