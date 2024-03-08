@@ -1,6 +1,5 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<p align="center">I'm a geek, of course I have a life 🌟<br>I'm a geek, of course I take care of myself 💪<br>I'm a geek, of course i have pretty nails 💅<br>I'm a geek, of course I'm very sociable 🤝<br>I'm a geek, of course I'm not always in front of my screen 🌈<br>i'm a geek, of course I LOVE MYSELF <3</p>
 
 #
 <div align="center">
