@@ -1,13 +1,9 @@
 <h1 align="center">Hello World!!</h1>
 
-###
 
-<h1 align="left"></h1>
-
-###
 
 <div align="center">
-  <img height="200" src="https://lottie.host/20bd2197-1ce5-4b37-bf59-eefde83fa040/NfjBu03lq5.lottie"  />
+  <img height="200" src="./Animation - 1739334990579.gif"  />
 </div>
 
 ###
