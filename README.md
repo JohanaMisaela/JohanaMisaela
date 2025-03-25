@@ -2,7 +2,6 @@
 <h1 align="center">Hello World!!</h1>
 
 
-
 <div align="center">
   <img height="200" src="./Animation - 1739334990579.gif"  />
 </div>
