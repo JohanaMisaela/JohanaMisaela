@@ -1,33 +1,3 @@
-<h1 align="center">Hello World !!</h1>
-
-
-<div align="center">
-  <img height="200" src="./Animation - 1739334990579.gif"  />
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<div align="center">
-  <a href="johanna.tahianaharison@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="Joanna Misaela" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="+261389382275" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
 
 <div align="center">
 
@@ -47,9 +17,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JohanaMisaela/count.svg?"  />
-</div>
+
 
 ###
 
