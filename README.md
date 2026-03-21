@@ -5,30 +5,12 @@
 
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohanaMisaela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-###
-
-
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JohanaMisaela/JohanaMisaela/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h1 align="left"></h1>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
