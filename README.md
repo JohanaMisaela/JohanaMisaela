@@ -1,6 +1,7 @@
 
 <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanaMisaela&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
 </div>
 
 <img src="https://raw.githubusercontent.com/JohanaMisaela/JohanaMisaela/output/snake.svg" alt="Snake animation" />
